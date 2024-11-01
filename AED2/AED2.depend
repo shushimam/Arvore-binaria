@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1707347067 source:c:\users\guilh\onedrive\documentos\aed2\funcoes_arq.c
+	"funcoes_arq.h"
+	"structs.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1707347182 c:\users\guilh\onedrive\documentos\aed2\funcoes_arq.h
+	"stdio.h"
+	"stdlib.h"
+	"structs.h"
+
+1707347158 c:\users\guilh\onedrive\documentos\aed2\structs.h
+
+1707348704 source:c:\users\guilh\onedrive\documentos\aed2\funcoes_man.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_arq.h"
+	"funcoes_man.h"
+	"structs.h"
+
+1707347223 c:\users\guilh\onedrive\documentos\aed2\funcoes_man.h
+	"stdio.h"
+	"structs.h"
+
+1707347023 source:c:\users\guilh\onedrive\documentos\aed2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funcoes_arq.h"
+	"funcoes_man.h"
+	"structs.h"
+

@@ -1,0 +1,7 @@
+C;1;Ciencia da Computacao;E
+C;5;Administracao;H
+C;3;Engenharia Mecanica;E
+C;4;Letras;H
+C;2;Engenharia Eletrica;E
+C;6;Enfermagem;B
+C;7;Medicina;B
